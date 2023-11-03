@@ -779,6 +779,15 @@ Ensure the default browser behavior of the `hidden` attribute.
   overflow-x: hidden;
 }
 
+.navbar-section {
+  z-index: 10;
+}
+
+.home-section {
+  z-index: 1;
+}
+
+
 .rounded-md {
   border-radius: 0.375rem;
 }

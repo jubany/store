@@ -3,7 +3,7 @@ import Svg from '../../../public/assets/svg1.svg';
 import Logo from '../../../public/assets/logo.svg';
 import Logo1 from '../../../public/assets/logo.svg';
 import Facebook from '../../../public/assets/Facebook.svg';
-import Watsapp from '../../../public/assets/svg2.svg';
+import Watsapp from '../../../public/assets/WhatsApp.svg';
 import Instagram from '../../../public/assets/Instagram.svg';
 import Twitter from '../../../public/assets/Twitter.svg';
 import Home2 from '../../../public/assets/home1.svg';

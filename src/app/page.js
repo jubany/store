@@ -1,8 +1,11 @@
 "use client";
-import Home from './views/page.jsx';
+import Home from '@/app/views/page';
 
 export default function page() {
   return (
-    <div><Home/></div>
+    <div>
+      <Home/>
+    </div>
+
   )
 }
